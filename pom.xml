@@ -71,6 +71,7 @@
                     <version>2.22.0</version>
                     <configuration>
                         <failIfNoTests>true</failIfNoTests>
+			<argLine>-Xms128m -Xmx128m</argLine>
                     </configuration>
                 </plugin>
 
